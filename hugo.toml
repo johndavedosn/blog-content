@@ -1,4 +1,4 @@
-baseURL = 'https://https://blog.ali-moumen.online/'
+baseURL = 'https://blog.ali-moumen.online/'
 languageCode = 'en-us'
 title = 'Ali Moumen.'
 theme= ["PaperMod"]
