@@ -1,0 +1,79 @@
+baseURL: 'https://blog.ali-moumen.online/'
+languageCode: 'en-us'
+title: 'Ali Moumen.'
+theme: ["PaperMod"]
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Ali Moumen's blog
+  description: "The place where I post stuff related to tech, writing, and more!"
+  keywords: [Blog, Portfolio, PaperMod, Ali moumen]
+  author: Ali moumen
+  # author: ["Me", "You"] # multiple authors
+  images: ["/me.jpg"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Mohammed Ali Moumen.
+    subtitle: "Community Leader @ Oreon Project. Writer. Proud homelab owner."
+    imageUrl: "/me.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+  socialIcons:
+    - name: x
+      url: "https://x.com/almoumen6"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/ali-moumen-2a0334324/"
+    - name: github
+      url: "https://github.com/johndavedosn"
+    - name: wattpad
+      url: "https://www.wattpad.com/user/Alithewriter12"
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
