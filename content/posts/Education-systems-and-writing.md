@@ -12,7 +12,8 @@ Not to mention. The permanent mark that will be stamped on all of my writing as 
 
 If anybody is going to explain my stories/books and the meaning conveyed within their texts. It's gonna be me, and I still am against forcing my works in people's faces.
 
-[*I AM THE FIRE* ](https://www.wattpad.com/story/406103950-i-am-the-fire)for instance, is a short story that I wrote through pure inspiration from Lucifer Morningstar and a lot of theology from my general knowledge. The metaphors and themes in it are explored through different layers. (Morals, linguestics, theology, etymology,etc).
+[*I AM THE FIRE* ](https://www.wattpad.com/story/406103950-i-am-the-fire)for instance, is a short story that I wrote through pure inspiration from Lucifer Morningstar and a lot of theology from my general knowledge. The metaphors and themes in it are explored through different layers. (Morals,  linguistics
+, theology, etymology,etc).
 
 Moreover, it delivers multiple messages and each message is independant from the other, and conveyed through different manners and characters. Speaking of characters, I have thought a lot about the general character development of that story, and educational systems might simply not understand many aspects of it.
 
