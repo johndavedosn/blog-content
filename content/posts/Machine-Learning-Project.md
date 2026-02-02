@@ -72,4 +72,4 @@ Well, fellers. We all know that no silly mathematical model can predict our exam
 
 This was just a small analysis and prediction project I worked on and it actually taught me a lot about statistics and ML generally. And also, I now know that math can explain everything, even if with slight inaccuracy.
 
-[This is the repo link](https://git.ali-moumen.online/Ali/Student-grade-predictors) on my public Forgejo instance if anybody wants to check it out, have fun!
+[This is the repo link](https://git.ali-moumen.tech/Ali/Student-grade-predictors) on my public Forgejo instance if anybody wants to check it out, have fun!
