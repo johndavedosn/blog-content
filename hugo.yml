@@ -68,7 +68,7 @@ params:
     - name: wattpad
       url: "https://www.wattpad.com/user/Alithewriter12"
     - name: forgejo
-      url: "https://git.ali-moumen.online/"
+      url: "https://git.ali-moumen.tech/"
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
