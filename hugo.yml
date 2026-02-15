@@ -47,7 +47,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Mohammed Ali Moumen.
-    subtitle: "Community Leader @ Oreon Project. Writer. Proud homelab owner."
+    subtitle: "Project Lead @ BasaltOS. Writer. Proud homelab owner."
     imageUrl: "/me.jpg"
     imageWidth: 120
     imageHeight: 120
